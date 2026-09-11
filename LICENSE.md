@@ -1,1 +1,1 @@
-No License.
+Proprietory License 
